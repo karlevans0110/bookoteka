@@ -1,0 +1,2 @@
+src-tauri/ linguist-vendored
+src/vite-env.d.ts linguist-vendored

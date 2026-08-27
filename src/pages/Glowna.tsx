@@ -1,8 +1,10 @@
+// Strona główna - rout: /
+
 import { Link } from "react-router-dom";
 
 export default function Glowna() {
   return (
-    <div style={{ padding: "1rem" }}>
+    <div style={{ padding: "1rem"}}>
       <h1 className="text-5xl font-bold text-indigo-900 mb-6">
         bookoteka
       </h1>
